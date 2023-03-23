@@ -8,3 +8,8 @@
 	url = https://github.com/empiricalbayes/cscdrna
 	shallow = true
 	registered = true
+[submodule "LFDREmpiricalBayes"]
+	path = LFDREmpiricalBayes
+	url = https://github.com/cran/LFDREmpiricalBayes
+	shallow = true
+	registered = true
