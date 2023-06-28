@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "CSCDRNA"]
 	path = CSCDRNA
 	url = https://github.com/empiricalbayes/cscdrna
-	shallow = true
-	registered = true
 [submodule "LFDREmpiricalBayes"]
 	path = LFDREmpiricalBayes
 	url = https://github.com/cran/LFDREmpiricalBayes
-	shallow = true
-	registered = true
