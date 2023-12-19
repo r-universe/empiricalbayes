@@ -5,6 +5,9 @@
 [submodule "CSCDRNA"]
 	path = CSCDRNA
 	url = https://github.com/empiricalbayes/cscdrna
+[submodule "LFDR.MME"]
+	path = LFDR.MME
+	url = https://github.com/cran/LFDR.MME
 [submodule "LFDREmpiricalBayes"]
 	path = LFDREmpiricalBayes
 	url = https://github.com/cran/LFDREmpiricalBayes
