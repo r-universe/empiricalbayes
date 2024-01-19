@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "CSCDRNA"]
-	path = CSCDRNA
-	url = https://github.com/empiricalbayes/cscdrna
 [submodule "LFDR.MME"]
 	path = LFDR.MME
 	url = https://github.com/cran/LFDR.MME
