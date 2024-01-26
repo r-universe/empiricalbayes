@@ -8,3 +8,6 @@
 [submodule "LFDREmpiricalBayes"]
 	path = LFDREmpiricalBayes
 	url = https://github.com/cran/LFDREmpiricalBayes
+[submodule "SNVLFDR"]
+	path = SNVLFDR
+	url = https://github.com/empiricalbayes/snvlfdr
